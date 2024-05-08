@@ -1,0 +1,67 @@
+Nutrients,Foods,Enhance,Inhibit,Source,Target,Edge_Weight
+,"yolk, chicken",enhance,,Yolk,Chicken,1
+protein,spinach,,inhibit,Spinach,Protein,0
+"energy, protein","fish, meat",,inhibit,Fish,Meat,0
+protein,wheat,raise,,Wheat,Protein,1
+,"beans, rice",enhance,,Beans,Rice,1
+energy,bean,,inhibit,Beans,Energy,0
+protein,"beef, egg",enhance,,Beef,Egg,1
+,,,,Meat,Seeds,0
+,,,,Fish,Seeds,0
+,"fish, meat, seeds",,inhibit,Fish,Meat,0
+carbohydrate,maize,raise,,Maize,Carbohydrate,1
+,"cherry, soy",enhance,,Cherry,Soy,1
+iron,meat,,inhibit,Meat,Iron,0
+,"egg, fish",,inhibit,Fish,Egg,0
+,"maize, pumpkin, fish, potato",enhance,,Maize,Pumpkin,1
+,,,,Potato,Rice,1
+,,,,Maize,Rice,1
+energy,"potatoes, maize, rice",enhance,,Potato,Maize,1
+,,,,Barley,Rice,1
+,,,,Corn,Rice,1
+protein,"barley, corn, rice",enhance,,Barley,Corn,1
+,"sorghum, milk",,,Sorghum,Milk,1
+,"meat, milk",,inhibit,Meat,Milk,0
+,"rice, tomato",heighten,,Rice,Tomato,1
+,,,,Potato,Rice,1
+,"potato, wheat, rice",enhance,,Potato,Wheat,1
+dietary fibre,rice,,,Rice,Dietary Fibre,1
+,,,,Fish,Carbohydrate,1
+"carbohydrate, energy",fish,raise,inhibit,Fish,Energy,1
+,,,,Wheat,Sugar,1
+,,,,Maize,Sugar,1
+,"maize, wheat, sugar",enhance,"suppress, inhibit",Maize,Wheat,0
+,"meat, wheat",,,Meat,Wheat,1
+,"meat, rice",enhance,,Meat,Rice,1
+,"fish, meat, chicken",enhance,,Fish,Chicken,0
+,,,,Wheat,Coffee,0
+,"maize, wheat, coffee",enhance,inhibit,Maize,Coffee,0
+iron,maize,enhance,inhibit,Maize,Iron,1
+,"milk, sugar",,,Milk,Sugar,1
+,"milk, wheat",,inhibit,Milk,Wheat,0
+,,,,Maize,Fat,0
+"energy, fat",maize,enhance,inhibit,Maize,Energy,0
+,"maize, sorghum",enhance,,Maize,Sorghum,1
+,"flour, sorghum",enhance,,Wheat,Sorghum,1
+,"cucumber, potato",enhance,,Cucumber,Potato,1
+,"wheat, cheese",,,Wheat,Cheese,0
+,"carrot, sugar",,inhibit,Carrot,Sugar,0
+,"oil, orange, palm oil",enhance,inhibit,Oil,Orange,0
+,"apples, orange",,,Apple,Orange,0
+carbohydrate,milk,,inhibit,Milk,Carbohydrate,0
+,,,,Pumpkin,Protein,0
+protein,"wheat, pumpkin",,inhibit,Wheat,Protein,0
+,,,,Rice,Milk,1
+,"milk, wheat, rice",,inhibit,Milk,Wheat,0
+,"wheat, barley",enhance,inhibit,Wheat,Barley,0
+,"egg, meat",,,Egg,Meat,0
+,"meat, orange",,inhibit,Meat,Orange,0
+protein,"turmeric, milk",enhance,"suppress, inhibit",Tumeric ,Milk,1
+iron,chilli,,,Chilli,Iron,0
+,,,,Maize,Milk,0
+,,,,Milk,Egg,1
+protein,"milk, egg, maize",enhance,inhibit,Maize,Egg,0
+,"barley, wheat",,inhibit,Barley,Wheat,0
+,"wheat, millet",,inhibit,Millet,Wheat,0
+,"sugarcane, tomato",,inhibit,Sugarcane Tomato,,0
+protein,"tomato, beetroot",enhance,inhibit,Tomato,Beetroot,0

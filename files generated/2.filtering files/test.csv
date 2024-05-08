@@ -1,0 +1,5 @@
+Id,Nutrients,Nutrients_count,Foods,Foods_count,Keep
+ajc0010700s318.pdf,"['protein', 'ash', 'fat']",3,"['oil', 'orange', 'gram', 'spinach', 'corn', 'fish', 'beef']",7,Yes
+Lee2004_Article_DietaryIronIntakeAndType2Diabe.pdf,"['protein', 'fat', 'carbohydrate', 'energy']",4,"['dal', 'egg', 'meat', 'fish', 'sugar']",5,Yes
+SAFFRON_tranSfer_leArning_For_Food_Disease_RelatiOn_extractioN.pdf,['protein'],1,"['dal', 'ragi', 'gram', 'pears']",4,Yes
+y8346m06.pdf,"['protein', 'ash', 'fat', 'energy']",4,"['lemon', 'butter', 'chicken', 'capsicum', 'mustard', 'oil', 'flour', 'mint', 'cauliflower', 'beans', 'orange', 'peas', 'dal', 'ragi', 'chilli', 'egg', 'rice', 'wheat', 'bean', 'gram', 'corn', 'chillies', 'radish', 'papaya', 'mint', 'potatoes', 'meat', 'tomato', 'parsley', 'millet', 'curd', 'fish', 'seeds', 'cabbage', 'moth', 'onion', 'milk', 'jaggery', 'guava', 'potato', 'currants', 'banana', 'milk', 'seafood', 'pepper', 'cheese', 'sugar', 'cumin', 'parsley', 'clove', 'lime', 'gingelly', 'cauliflower', 'cowpea', 'beef']",55,Yes

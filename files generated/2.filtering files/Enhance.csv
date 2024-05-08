@@ -1,0 +1,33 @@
+Source,Target
+Yolk,Chicken
+Wheat,Protein
+Beans,Rice
+Beef,Egg
+Maize,Carbohydrate
+Cherry,Soy
+Maize,Pumpkin
+Potato,Rice
+Maize,Rice
+Potato,Maize
+Barley,Rice
+Corn,Rice
+Barley,Corn
+Sorghum,Milk
+Rice,Tomato
+Potato,Rice
+Potato,Wheat
+Rice,Dietary Fibre
+Fish,Carbohydrate
+Fish,Energy
+Wheat,Sugar
+Maize,Sugar
+Meat,Wheat
+Meat,Rice
+Maize,Iron
+Milk,Sugar
+Maize,Sorghum
+Wheat,Sorghum
+Cucumber,Potato
+Rice,Milk
+Tumeric ,Milk
+Milk,Egg
